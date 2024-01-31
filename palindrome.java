@@ -26,4 +26,6 @@ public class palindrome {
      public static boolean isPalindrome(int number,int reversenumber){
         return number == reversenumber;
     }
+    System.out.println(0+5);
 }
+
